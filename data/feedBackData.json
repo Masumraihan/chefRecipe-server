@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "feedback": "The food was delicious and the service was excellent.",
+    "rating": 5,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "feedback": "The atmosphere was great but the food was a bit too salty for my liking.",
+    "rating": 3,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "feedback": "The portions were a bit small but the quality of the food was amazing.",
+    "rating": 4,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "feedback": "The food was average but the service was excellent.",
+    "rating": 3,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 5,
+    "name": "Tom Smith",
+    "feedback": "The food was excellent and the atmosphere was cozy.",
+    "rating": 5,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 6,
+    "name": "Samantha Johnson",
+    "feedback": "The food was great but the service could have been better.",
+    "rating": 4,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 7,
+    "name": "David Brown",
+    "feedback": "The food was good but the prices were a bit high.",
+    "rating": 3,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  },
+  {
+    "id": 8,
+    "name": "Sarah Thompson",
+    "feedback": "The food was okay but the atmosphere was a bit too loud.",
+    "rating": 2,
+    "image": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=1024x1024&w=is&k=20&c=sNlltuGFyNfe6UecT354mxaroD3vSWCHzd-9cdpDPjg="
+  }
+]
