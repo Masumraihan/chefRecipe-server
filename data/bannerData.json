@@ -3,30 +3,30 @@
     "id": "001",
     "name": "Hamburger",
     "description": "A classic American dish made with a beef patty, served on a bun with toppings such as lettuce, tomato, onion, and cheese.",
-    "image": "https://example.com/hamburger.jpg"
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=999&q=80"
   },
   {
     "id": "002",
     "name": "Hotdog",
     "description": "Another classic American food, made with a grilled sausage served in a long bun with toppings like ketchup, mustard, and relish.",
-    "image": "https://example.com/hotdog.jpg"
+    "image": "https://images.unsplash.com/photo-1599599810694-b5b37304c041?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80"
   },
   {
     "id": "003",
     "name": "Barbecue ribs",
     "description": "Slow-cooked pork ribs coated in barbecue sauce, often served with sides like coleslaw and baked beans.",
-    "image": "https://example.com/ribs.jpg"
+    "image": "https://plus.unsplash.com/premium_photo-1663036447682-8f0d918adbed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
   },
   {
     "id": "004",
     "name": "Macaroni and cheese",
     "description": "A comfort food staple made with macaroni pasta and a cheesy sauce.",
-    "image": "https://example.com/macandcheese.jpg"
+    "image": "https://plus.unsplash.com/premium_photo-1664478288635-b9703a502393?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
   },
   {
     "id": "005",
     "name": "Fried chicken",
     "description": "Crispy, breaded chicken that has been deep-fried, often served with sides like mashed potatoes and gravy.",
-    "image": "https://example.com/friedchicken.jpg"
+    "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   }
 ]
