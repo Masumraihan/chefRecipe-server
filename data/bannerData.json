@@ -1,0 +1,32 @@
+[
+  {
+    "id": "001",
+    "name": "Hamburger",
+    "description": "A classic American dish made with a beef patty, served on a bun with toppings such as lettuce, tomato, onion, and cheese.",
+    "image": "https://example.com/hamburger.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Hotdog",
+    "description": "Another classic American food, made with a grilled sausage served in a long bun with toppings like ketchup, mustard, and relish.",
+    "image": "https://example.com/hotdog.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Barbecue ribs",
+    "description": "Slow-cooked pork ribs coated in barbecue sauce, often served with sides like coleslaw and baked beans.",
+    "image": "https://example.com/ribs.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Macaroni and cheese",
+    "description": "A comfort food staple made with macaroni pasta and a cheesy sauce.",
+    "image": "https://example.com/macandcheese.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Fried chicken",
+    "description": "Crispy, breaded chicken that has been deep-fried, often served with sides like mashed potatoes and gravy.",
+    "image": "https://example.com/friedchicken.jpg"
+  }
+]
