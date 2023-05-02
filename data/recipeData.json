@@ -1,0 +1,154 @@
+[
+  {
+    "chef_id": 1,
+    "recipe_name": "Beef Wellington",
+    "ingredients": [
+      "2 lb beef tenderloin",
+      "1 tbsp olive oil",
+      "1 tbsp Dijon mustard",
+      "1 lb puff pastry",
+      "8 oz mushrooms, finely chopped",
+      "1/2 cup chopped shallots",
+      "2 cloves garlic, minced",
+      "1 tbsp chopped fresh thyme",
+      "1 egg, beaten"
+    ],
+    "cooking_method": "1. Preheat the oven to 425°F. \n2. Season the beef with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the beef on all sides until browned. Remove from the heat and brush with Dijon mustard. \n3. In the same skillet, cook the mushrooms, shallots, garlic, and thyme until the mixture is dry. Season with salt and pepper. \n4. Roll out the puff pastry to a thickness of 1/4 inch. Spread the mushroom mixture over the pastry. Place the beef on top and wrap the pastry around it, sealing the edges with egg wash. \n5. Brush the top of the pastry with egg wash and bake for 40-45 minutes, or until the pastry is golden brown and the beef is cooked to your desired temperature. Let rest for 10 minutes before slicing and serving.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 2,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 3,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 5,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 6,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 7,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 8,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 9,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 10,
+    "recipe_name": "Lamb Chops with Mint Gremolata",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tbsp olive oil",
+      "1/4 cup chopped fresh mint",
+      "2 tbsp chopped fresh parsley",
+      "2 garlic cloves, minced",
+      "1/2 tsp lemon zest",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F. \n2. Season the lamb chops with salt and pepper. Heat the olive oil in a large skillet over high heat. Sear the lamb chops on all sides until browned. \n3. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes, or until cooked to your desired temperature. \n4. In a small bowl, mix together the mint, parsley, garlic, and lemon zest. Season with salt and pepper. \n5. Serve the lamb chops with the mint gremolata on top.",
+    "rating": 4.2
+  }
+]
