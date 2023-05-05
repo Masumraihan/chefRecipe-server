@@ -3,6 +3,7 @@
     "chef_id": 1,
     "recipes": [
       {
+        "id": 1,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -19,6 +20,7 @@
         "rating": 4.5
       },
       {
+        "id": 2,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -31,6 +33,7 @@
         "rating": 4.0
       },
       {
+        "id": 3,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -53,6 +56,7 @@
     "chef_id": 2,
     "recipes": [
       {
+        "id": 4,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -69,6 +73,7 @@
         "rating": 4.5
       },
       {
+        "id": 5,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -81,6 +86,7 @@
         "rating": 4.0
       },
       {
+        "id": 6,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -103,6 +109,7 @@
     "chef_id": 3,
     "recipes": [
       {
+        "id": 7,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -119,6 +126,7 @@
         "rating": 4.5
       },
       {
+        "id": 8,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -131,6 +139,7 @@
         "rating": 4.0
       },
       {
+        "id": 9,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -153,6 +162,7 @@
     "chef_id": 4,
     "recipes": [
       {
+        "id": 10,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -169,6 +179,7 @@
         "rating": 4.5
       },
       {
+        "id": 11,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -181,6 +192,7 @@
         "rating": 4.0
       },
       {
+        "id": 12,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -203,6 +215,7 @@
     "chef_id": 5,
     "recipes": [
       {
+        "id": 13,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -219,6 +232,7 @@
         "rating": 4.5
       },
       {
+        "id": 14,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -231,6 +245,7 @@
         "rating": 4.0
       },
       {
+        "id": 15,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -253,6 +268,7 @@
     "chef_id": 6,
     "recipes": [
       {
+        "id": 16,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -269,6 +285,7 @@
         "rating": 4.5
       },
       {
+        "id": 17,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -281,6 +298,7 @@
         "rating": 4.0
       },
       {
+        "id": 18,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -303,6 +321,7 @@
     "chef_id": 7,
     "recipes": [
       {
+        "id": 19,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -319,6 +338,7 @@
         "rating": 4.5
       },
       {
+        "id": 20,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -331,6 +351,7 @@
         "rating": 4.0
       },
       {
+        "id": 21,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -353,6 +374,7 @@
     "chef_id": 8,
     "recipes": [
       {
+        "id": 22,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -369,6 +391,7 @@
         "rating": 4.5
       },
       {
+        "id": 23,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -381,6 +404,7 @@
         "rating": 4.0
       },
       {
+        "id": 24,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -403,6 +427,7 @@
     "chef_id": 9,
     "recipes": [
       {
+        "id": 25,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -419,6 +444,7 @@
         "rating": 4.5
       },
       {
+        "id": 26,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -431,6 +457,7 @@
         "rating": 4.0
       },
       {
+        "id": 27,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
@@ -453,6 +480,7 @@
     "chef_id": 10,
     "recipes": [
       {
+        "id": 28,
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "2 lb beef tenderloin",
@@ -469,6 +497,7 @@
         "rating": 4.5
       },
       {
+        "id": 29,
         "recipe_name": "Scrambled Eggs",
         "ingredients": [
           "4 eggs",
@@ -481,6 +510,7 @@
         "rating": 4.0
       },
       {
+        "id": 30,
         "recipe_name": "Beef Stroganoff",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
